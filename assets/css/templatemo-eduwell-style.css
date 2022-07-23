@@ -723,7 +723,7 @@ section.main-banner {
   position: relative;
   z-index: 2;
   margin-top: 20px;
-  font-size: 64px;
+  font-size: 44px;
   color: #111111;
   font-weight: 900;
   line-height: 74px;
@@ -1751,7 +1751,7 @@ body {
     margin-left: 60px;
   }
   .main-banner .header-text h2 {
-    font-size: 62px;
+    font-size: 22px;
   }
   .header-area {
     background: rgb(219,138,222) !important;
